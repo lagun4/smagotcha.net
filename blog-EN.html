@@ -2,9 +2,9 @@
 layout: default
 title: Blog-EN
 ---
-<div class='blog-posts'>
+<div class='blog-postsEN'>
   {% for post in site.posts %}
-  <article class='blog-post'>
+  <article class='blog-postEN'>
     <h2>{{ post.title }}</h2>
     <p><time class='blog-post-date'>{{ post.date | date_to_string "ordinal", "DE" }}</time></p>
     {{ post.content | markdownify }}

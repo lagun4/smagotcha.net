@@ -11,7 +11,7 @@ Alright then! Let's get ready for standing and waiting, eagerly stretching our t
 
 ![Testbild](/blog_images/BlogTest.png)
 
-In order to create a bit off confusion and thereby to arouse the interest of the many drivers I decided to put the Smagotcha logo onto the sign instead of merely writing the next best city destination on it.
+In order to create a bit of confusion and thereby to arouse the interest of the many drivers I decided to put the Smagotcha logo onto the sign instead of merely writing the next best city destination on it.
 
 Fully equipped we gonna hitch our way through, however, there will be a few rules:
 

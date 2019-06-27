@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smagotcha Around The World"
+title: "The Journey Begins"
 ---
 
 Bislang war ich auf meinen Reisen um die Welt oft alleine unterwegs. Dieses Mal nehme ich meinen kleinen Freund Smagotcha mit.

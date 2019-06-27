@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" class="landing">
   <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,8 +18,10 @@
       <div class="inner">
 
         <header>
-          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+           <img src="/images/Logo.png" alt="logo" class="brand-logo">
+
+        <h1>Smagotcha</h1>
+                
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}

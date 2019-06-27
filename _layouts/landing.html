@@ -17,18 +17,16 @@
     <div id="container">
       <div class="inner">
 
-        <header>
+        <header class='brand-header'>
            <img src="/images/Logo.png" alt="logo" class="brand-logo">
-
-        <h1>Smagotcha</h1>
-                
+           <h1>Smagotcha</h1>
         </header>
+        {% if site.show_downloads %}
         <section id="downloads" class="clearfix">
-          {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
           <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          {% endif %}
         </section>
+        {% endif %}
         <hr>
         <section id="main_content">
           {{ content }}

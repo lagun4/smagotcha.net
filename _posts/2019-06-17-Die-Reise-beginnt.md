@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Journey Begins"
+title: "Die Reise beginnt"
 ---
 
 Bislang war ich auf meinen Reisen um die Welt oft alleine unterwegs. Dieses Mal nehme ich einen kleinen Freund mit.

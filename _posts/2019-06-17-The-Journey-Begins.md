@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postEN
 title: "The Journey Begins"
 ---
 

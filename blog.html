@@ -6,7 +6,7 @@ title: Blog
   {% for post in site.posts %}
   <article class='blog-post'>
     <h2>{{ post.title }}</h2>
-    <p><time class='blog-post-date'>{{ post.date | date_to_string "ordinal", "DE" }}</time></p>
+    <time class='blog-post-date'>{{ post.date | date_to_string "ordinal", "DE" }}</time><br>
     {{ post.content | markdownify }}
   </article>
   {% endfor %}

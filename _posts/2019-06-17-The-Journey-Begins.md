@@ -15,11 +15,11 @@ Um ein kleines bisschen Verwirrung zu stiften und so das Interesse der vielen Fa
 
 Ausgerüstet mit Zelt und Co werden wir unseren Weg antreten. Dabei gibt es die folgenden Spielregeln:
 
-1) Jedes Mal wenn ein Fahrer anhält, erkläre ich kurz worum es bei dem Projekt Smagotcha geht. Einsteigen werden wir nur, wenn die Fahrer sich dafür interessieren, es sei denn wir sind in einer Notlage.
+-> Jedes Mal wenn ein Fahrer anhält, erkläre ich kurz worum es bei dem Projekt Smagotcha geht. Einsteigen werden wir nur, wenn die Fahrer sich dafür interessieren, es sei denn wir sind in einer Notlage.
 
-2) Sobald wir im Auto sitzen, pitche ich das Projekt mithilfe von gedruckten Designs und Skizzen. Schon im Fahrzeug oder sobald wir herausgelassen werden, mache ich ein Foto zusammen mit dem Fahrer, damit ich es später in einem neuen Blogpost veröffentlichen kann.
+-> Sobald wir im Auto sitzen, pitche ich das Projekt mithilfe von gedruckten Designs und Skizzen. Schon im Fahrzeug oder sobald wir herausgelassen werden, mache ich ein Foto zusammen mit dem Fahrer, damit ich es später in einem neuen Blogpost veröffentlichen kann.
 
-3) Ich vereinbare Bedingungen für einen von uns akzeptierten Ankunftsort. An einer Tankstelle auf der Autobahn ODER im Zentrum einer Stadt möchten wir herausgelassen werden. Auf diese Weise kann ich je nach Tageszeit navigieren, ob wir weitertrampen möchten oder mir doch lieber ein Plätzchen für die Nacht suchen.
+-> Ich vereinbare Bedingungen für einen von uns akzeptierten Ankunftsort. An einer Tankstelle auf der Autobahn ODER im Zentrum einer Stadt möchten wir herausgelassen werden. Auf diese Weise kann ich je nach Tageszeit navigieren, ob wir weitertrampen möchten oder mir doch lieber ein Plätzchen für die Nacht suchen.
 
 Begleitet uns doch auf unserem Abenteuer.
 

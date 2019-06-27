@@ -15,7 +15,7 @@ In order to create a bit off confusion and thereby to arouse the interest of the
 
 Fully equipped we gonna hitch our way through, however, there will be a few rules:
 
-*->Every time when a driver pulls over, I will explain the project Smagotcha briefly. We will only hop on if the driver is interested in further listening. In case of an emergency e.g. it becomes urgent to arrive in the next city or if I don't feel well, I would then look for the next best opportunity to get a ride .*
+*-> Every time when a driver pulls over, I will explain the project Smagotcha briefly. We will only hop on if the driver is interested in further listening. In case of an emergency e.g. it becomes urgent to arrive in the next city or if I don't feel well, I would then look for the next best opportunity to get a ride .*
 
 *-> As soon as we made ourselves comfortable on the seats, I will pitch the project. I don't want to distract the drivers so I will only talk until we have a break or when I'm released of the vehicle. If the driver agrees, I will take a photo of us that will be uploaded in a new blog post later.*
 

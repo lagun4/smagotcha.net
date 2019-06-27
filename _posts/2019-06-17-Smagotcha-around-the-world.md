@@ -3,15 +3,13 @@ layout: post
 title: "Smagotcha Around The World"
 ---
 
-# Smagotcha um die Welt
-
 Bislang war ich auf meinen Reisen um die Welt oft alleine unterwegs. Dieses Mal nehme ich meinen kleinen Freund Smagotcha mit.
 
 Im August und September geht es nun durch Europa. Dabei lassen wir uns von Reisenden aller Art mitnehmen, die sich als Interessenten und Förderer unserer Community anschließen wollen.
 
 Also stellen wir uns an den Straßenrand, strecken unsere Daumen entgegen des Windes und halten stolz das wunderschöne Schild nach oben. Doch ein konkretes Ziel gibt es nicht und wird es nie geben. Ohne Ziel lassen wir uns leiten und steigen bei denen ein, die bereit sind mich und meinen kleinen Freund mitzunehmen damit sie sich unsere Geschichte anhören.
 
-![Testbild](/images/BlogTest.png)
+![Testbild](/blog_images/BlogTest.png)
 
 Um ein kleines bisschen Verwirrung zu stiften und so das Interesse der vielen Fahrer zu wecken, habe ich mich entschieden das Smagotcha-Logo auf das Schild zu setzen anstatt einfach den Stadtnamen darauf zu schreiben.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smagotcha around the world"
+title: "Smagotcha Around The World"
 ---
 
 # Smagotcha um die Welt

@@ -1,5 +1,5 @@
 ---
-layout: makedonation
+layout: default
 ---
 
 Donate here:

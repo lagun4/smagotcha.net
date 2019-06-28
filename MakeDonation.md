@@ -1,5 +1,6 @@
 ---
 layout: makedonation
+title: Make a Donation
 ---
 
 Donate here:

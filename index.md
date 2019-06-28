@@ -8,7 +8,7 @@ The smartphone app Smagotcha supports its users to understand their own interact
 
 [See our German blog](/blog)
 
-Our aim is to empower people with mindfulness. We are currently developing a beta version for the smartphone app Smagotcha. 
+Our aim is to empower people with mindfulness. We are currently developing a beta version for the smartphone app Smagotcha. If you donate more than 100€ you will get access to the full version of the app for 12 months.
 
 <!--<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -17,6 +17,6 @@ Our aim is to empower people with mindfulness. We are currently developing a bet
 <img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
 </form>-->
 
-<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/smagotcha" height="685px" width="100%" style="max-width:500px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
+
 
 <!-- Kommentar -->

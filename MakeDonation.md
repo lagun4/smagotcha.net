@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: makedonation
 ---
 
 Donate here:

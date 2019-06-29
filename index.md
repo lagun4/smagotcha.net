@@ -4,11 +4,11 @@ layout: landing
 
 The smartphone app Smagotcha supports its users to understand their own interactions with their environment. For this purpose a cute but disciplined creature made of light matures inside the app and changes its brightness over time. It brings the users thoughts, feelings and sensations into the present moment. In order to accomplish this it evolves its appearance and character continuously – entirely individually and for as long as it is played with. Beware though, it is threatened to atrophy when the old habits resurface. When its luminosity is fully developed, the users will glide into the next phase. There they will be awaited by new secrets in order to let their creature live even more individually.
 
-[See our English blog](/blog-EN)
+[See our blog](/blog)
 
-[See our German blog](/blog)
+German readers may be patient. A German blog is in progress.
 
-Our aim is to empower people with mindfulness. We are currently developing a beta version for the smartphone app Smagotcha. If you donate more than 100€ you will get access to the full version of the app for 12 months.
+Our aim is to empower people with mindfulness. We are currently developing a beta version for the smartphone app Smagotcha. 
 
 <!--<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />

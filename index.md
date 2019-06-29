@@ -12,7 +12,9 @@ As part of this project I decided to build a community via hitching and pitching
 
 [Follow me on my journey through Europe](/blog)
 
-Our aim is to empower people with mindfulness. We are currently developing a beta version for the smartphone app Smagotcha. We are a team of five scattered around Europe. Check us out:
+Our aim is to empower people with mindfulness. We are currently developing a beta version for the smartphone app Smagotcha. We are a team of five scattered around Europe. 
+
+Check us out:
 
 Christoph | Germany (project manager/ team lead)
 

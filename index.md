@@ -23,12 +23,13 @@ Christoph - Germany <br>
 
 ![Jana](/images/Jana_Web180.jpg)
 <br>
-Jana      - Austria 
-*<p>project assistance/ 2D design</p>*
+Jana      - Austria <br>
+*project assistance/ 2D design*
 
 ![Zsombor](/images/Zsom_Web180.jpg)
-Zsombor   - Poland 
-*<p>app developer</p>*
+<br>
+Zsombor   - Poland <br>
+*app developer*
 
 
 Mette     - Denmark (3D design)

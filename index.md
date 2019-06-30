@@ -31,8 +31,10 @@ Jana      - Austria <br>
 Zsombor   - Poland <br>
 *app developer*
 
-
-Mette     - Denmark (3D design)
+![Mette](/images/Mett_Web180.jpg)
+<br>
+Mette     - Denmark<br>
+*3D design*
 
 Rigo      - Germany (sound design)
 

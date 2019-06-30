@@ -36,7 +36,7 @@ Mette     - Denmark<br>
 Rigo      - Germany <br>
 *sound design*
 
-We want to send a focussed message so we keep our project free of advertisement. We all work voluntary but in order to finance things such as the website, the app development and travel costs we rely on money. If you want to support us with a donation you would be highly appreciated.
+We want to send a focussed message so we keep our project free of advertisement. We all work voluntary and still rely on money to pay things such as the website, the app development and travel costs. If you want to support us with a donation you would be highly appreciated.
 
 
 [Donate](/MakeDonation)

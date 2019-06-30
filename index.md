@@ -31,8 +31,8 @@ Jana      - Austria <br>
 Zsombor   - Poland <br>
 *app developer*
 
-![Mette](/images/Mett_Web180.jpg)
-<br>
+<!--![Mette](/images/Mett_Web180.jpg)
+<br>-->
 Mette     - Denmark<br>
 *3D design*
 

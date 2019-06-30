@@ -19,10 +19,10 @@ Check us out:
 Christoph - Germany (project manager/ team lead)
 
 <p>Jana      - Austria (project assistance/ 2D design)</p>
-![Jana](/images/Jana_Web.jpg)
+![Jana](/images/Jana_Web180.jpg)
 
 <p>Zsombor   - Poland (app developer)</p>
-![Zsombor](/images/Zsom_Web.jpg)
+![Zsombor](/images/Zsom_Web180.jpg)
 
 Mette     - Denmark (3D design)
 

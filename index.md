@@ -10,9 +10,9 @@ As part of this project I decided to build a community via hitching and pitching
 
 [Follow me on my journey through Europe](/blog)
 
-Our aim is to empower people with mindfulness. Currently we are developing a beta version for the smartphone app Smagotcha. We are a small team scattered around Europe. 
+Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people with mindfulness. We are a small team scattered around Europe. 
 
-![Christoph](/images/Chris_Web180.jpg) ![Jana](/images/Jana_Web180.jpg) ![Zsombor](/images/Zsom_Web180.jpg)
+![Christoph](/images/Chris_Web180.jpg) <!--![Jana](/images/Jana_Web180.jpg) ![Zsombor](/images/Zsom_Web180.jpg)-->
 <br>
 Christoph - Germany <br>
 *project manager/ team lead*
@@ -35,6 +35,10 @@ Mette     - Denmark<br>
 
 Rigo      - Germany <br>
 *sound design*
+
+We want to send a focussed message so we keep our project free of advertisement. We all work voluntary but in order to finance things such as the website, the app development and travel costs we rely on money. If you want to support us with a donation you would be highly appreciated.
+
+![Donate](/MakeDonation)
 
 <!--<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />

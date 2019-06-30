@@ -38,7 +38,7 @@ Rigo      - Germany <br>
 
 We want to send a focussed message so we keep our project free of advertisement. We all work voluntary but in order to finance things such as the website, the app development and travel costs we rely on money. If you want to support us with a donation you would be highly appreciated.
 
-![Donate](/MakeDonation)
+[Donate](/MakeDonation)
 
 <!--<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />

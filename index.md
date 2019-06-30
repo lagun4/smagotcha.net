@@ -17,7 +17,8 @@ Our aim is to empower people with mindfulness. We are currently developing a bet
 Check us out:
 
 ![Christoph](/images/Chris_Web180.jpg)
-Christoph - Germany 
+<br>
+Christoph - Germany <br>
 *project manager/ team lead*
 
 ![Jana](/images/Jana_Web180.jpg)

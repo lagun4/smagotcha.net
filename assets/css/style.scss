@@ -66,10 +66,14 @@ h1 small {
     color: #888;
 }
 
-link {
+a{
     display: block;
     font-size: 0.8em;
-    color: #888;
+    color: rgb(28, 6, 226);
 }
 
-<a href="selectTopic?html" style="font-size: 100px; text-decoration: none">HTML 5</a>
+:link{
+    display: block;
+    font-size: 0.8em;
+    color: rgb(28, 6, 226);
+}

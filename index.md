@@ -19,7 +19,7 @@ Check us out:
 Christoph - Germany 
 *project manager/ team lead*
 
-![Jana](/images/Jana_Web180.jpg)
+<p>![Jana](/images/Jana_Web180.jpg)</p>
 Jana      - Austria 
 *<p>project assistance/ 2D design</p>*
 

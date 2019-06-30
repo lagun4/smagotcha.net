@@ -16,13 +16,15 @@ Our aim is to empower people with mindfulness. We are currently developing a bet
 
 Check us out:
 
-Christoph - Germany (project manager/ team lead)
-
-<p>Jana      - Austria (project assistance/ 2D design)</p>
+Christoph - Germany 
+*project manager/ team lead*
 ![Jana](/images/Jana_Web180.jpg)
-
-<p>Zsombor   - Poland (app developer)</p>
+Jana      - Austria 
+*<p>project assistance/ 2D design</p>*
 ![Zsombor](/images/Zsom_Web180.jpg)
+Zsombor   - Poland 
+*<p>app developer</p>*
+
 
 Mette     - Denmark (3D design)
 

@@ -19,6 +19,7 @@ Check us out:
 Christoph - Germany (project manager/ team lead)
 
 Jana      - Austria (project assistance/ 2D design)
+![Jana](/images/Jana_Web.jpg)
 
 Zsombor   - Poland (app developer)
 

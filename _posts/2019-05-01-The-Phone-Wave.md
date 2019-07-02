@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Broken Phone"
+title: "The Phone Wave"
 ---
 
 In August 2017 I travelled through Portugal when one day my phone got hit by the ocean. I had been surfing in tiny surfer's paradise called Arrifana close to the Algarve. Later, when I relaxed on the beach I didn't notice the high tide coming in. Before I could save my little bag and myself a wave had already destroyed my phone. Surprisingly, I didn't feel annoyed. I was perplex but there was as well sort of relief. 
@@ -9,4 +9,4 @@ The succeeding sixty days I continued travelling in Portugal and afterwards in M
 
 In April 2018 I visited Vietnam for a one-month backpacking trip. During my journey I was again confronted by the many travelers who navigated themselves with their mobiles. I also relied on my own smartphone but this time I myself was among these hostel lobby guests who were all sitting next to each other so anonymously. It took a few hostels more to realize how comfortable I had felt the year before in Portugal when I didn't have a phone. 
 
-I wanted to come up with something. How could people could use their smartphone more consciously? I like my smartphone so demonizing it would have been a deal braker...
+I wanted to come up with something. How could people could use their smartphone more consciously? I like my smartphone so demonizing it would have been a deal breaker...

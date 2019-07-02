@@ -12,18 +12,18 @@ As part of this project I decided to build a community via hitching and pitching
 
 Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people with mindfulness. We are a small team scattered around Europe. 
 
-![Christoph](/images/Chris_Web180.jpg) <!--![Jana](/images/Jana_Web180.jpg) ![Zsombor](/images/Zsom_Web180.jpg)-->
+![Christoph](/images/Chris_Web180BW.jpg) <!--![Jana](/images/Jana_Web180.jpg) ![Zsombor](/images/Zsom_Web180.jpg)-->
 <br>
 Christoph - Germany <br>
 *project manager/ team lead*
 
 
-![Jana](/images/Jana_Web180.jpg)
+![Jana](/images/Jana_Web180BW.jpg)
 <br>
 Jana      - Austria <br>
 *project assistance/ 2D design*
 
-![Zsombor](/images/Zsom_Web180.jpg)
+![Zsombor](/images/Zsom_Web180BW.jpg)
 <br>
 Zsombor   - Poland <br>
 *app developer*

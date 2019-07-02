@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Phone Wave"
+title: "Phoney Wave"
 ---
 
 In August 2017 I travelled through Portugal when one day my phone got hit by the ocean. I had been surfing in a tiny surfer's paradise called Arrifana close to the Algarve. Later, when I relaxed on the beach I didn't notice the high tide coming in. Before I could save my little bag and myself a wave had already destroyed my phone. Surprisingly, I didn't feel annoyed. I was perplex but there was as well sort of relief. 

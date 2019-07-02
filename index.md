@@ -6,9 +6,7 @@ Imagine you possess a creature made of light, which gives you the opportunity to
 
 What many people struggle with you can learn in a playful way. Smagotcha teaches you to direct your focus on your surroundings and to keep it there – without getting distracted.
 
-As part of this project I decided to build a community via hitching and pitching. 
-
-[Follow me on my journey through Europe](/blog)
+__Stay up to date__! If you want to follow our process of how our project develops please check out our [blog](/blog). It's about what has happened already and what is going currently. Part of it is my project journey that I undertake through Europe in order to build a community.
 
 Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people with mindfulness. We are a small team scattered around Europe. 
 

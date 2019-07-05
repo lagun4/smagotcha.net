@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phoney Wave"
+title: "Why Smagotcha?"
 ---
 
 In August 2O17, I was travelling through Portugal when one day my phone got hit by the ocean! I had been surfing in a tiny surfing paradise called Arrifana, close to the Algarve. As I was relaxing on the beach, I didn't notice the high tide coming in – and before I could save my little bag and myself, a wave had already destroyed my phone. Surprisingly, I wasn't annoyed: I was perplexed, but there was also a sense of relief.

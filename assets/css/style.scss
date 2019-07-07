@@ -42,7 +42,7 @@ body {
 
 body, p, span, div {
     font-family: "Sofia Pro";
-    font-weight: 100;
+    font-weight: 300;
 }
 
 #container {
@@ -55,7 +55,6 @@ header h1 {
 }
 
 .brand-header {
-    font-family: "Sofia Soft"
     display: grid;
     grid-template-columns: 100px 1fr;
     grid-gap: 6rem;

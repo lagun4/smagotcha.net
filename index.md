@@ -10,11 +10,10 @@ __Stay up to date!__ Check out our [blog](/blog) to see all of what's happening 
 
 Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people with mindfulness. We are a small team scattered around Europe. 
 
-![Christoph](/images/chris_web.jpg) <!--![Jana](/images/Jana_Web180.jpg) ![Zsombor](/images/Zsom_Web180.jpg)-->
+![Christoph](/images/chris_web.jpg)
 <br>
 Christoph - Germany <br>
 *project manager/ team lead*
-
 
 ![Jana](/images/jana_web.jpg)
 <br>

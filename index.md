@@ -2,9 +2,9 @@
 layout: landing
 ---
 
-Imagine you possess a creature made of light, which gives you the opportunity to become conscious of your actions whereever you are. With each of your excercises it evolves – every time when you are attentive. 
+Imagine there is a creature made of light, and this creature gives you the opportunity to be more conscious of your actions wherever you are. And with each of your exercises, it evolves - every time you choose to be attentive.
 
-What many people struggle with you can learn in a playful way. Smagotcha teaches you to direct your focus on your surroundings and to keep it there – without getting distracted.
+What many people struggle with you can learn to do in a playful way. Smagotcha teaches you to direct your focus on your surroundings and to keep it there - with no distractions.
 
 __Stay up to date!__ Check out our [blog](/blog) to see all of what's happening with Smagotcha. <br> 
 A big part of it is the project journey I am undertaking as I travel through Europe building community!

@@ -1,6 +1,6 @@
 ---
 layout: makedonation
-title: Your Donation
+title: YOUR DONATION
 ---
 
 Thank You!

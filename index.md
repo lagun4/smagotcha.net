@@ -31,6 +31,8 @@ Christoph - Germany <br>
 Mette     - Denmark <br>
 *3D design*
 
+![Rigo](/images/rigo.jpg)
+<br>
 Rigo      - Germany <br>
 *sound design*
 

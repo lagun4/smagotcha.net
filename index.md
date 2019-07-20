@@ -36,8 +36,7 @@ Mette     - Denmark <br>
 Rigo      - Germany <br>
 *sound design*
 
-This project is free of advertisement. We all work voluntary and still rely on money to pay things such as the website, the app development and travel costs. If you want to support us with a donation you would be highly appreciated.
-
+If you want to support us with a donation that would be highly appreciated.
 
 [Donate](/makedonation)
 

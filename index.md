@@ -6,10 +6,11 @@ Imagine there is a creature made of light, and this creature gives you the oppor
 
 What many people struggle with you can learn to do in a playful way. Smagotcha teaches you to direct your focus on your surroundings and to keep it there - with no distractions.
 
-__Stay up to date!__ Check out our [blog](/blog) to see all of what's happening with Smagotcha. <br> 
+__Stay up to date!__ <br>Check out our [blog](/blog) to see all of what's happening with Smagotcha. <br> 
 A big part of it is the project journey I am undertaking as I travel through Europe building community!
 
-Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people with mindfulness. We are a small team scattered around Europe. 
+__Who are we?__ <br>
+Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people to use their smartphones mindfully. We are a small team scattered around Europe. 
 
 ![Zsombor](/images/zsom.jpg)
 <br>
@@ -36,9 +37,9 @@ Mette     - Denmark <br>
 Rigo      - Germany <br>
 *sound design*
 
-If you want to support us with a donation that would be highly appreciated.
+__Donate!__ <br>
+If you want to support us with a [donation](/makedonation) that would be highly appreciated.
 
-[Donate](/makedonation)
 
 
 <!--<form action="https://www.

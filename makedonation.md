@@ -3,8 +3,9 @@ layout: makedonation
 title: YOUR DONATION
 ---
 
-We all work voluntarily but still rely on money to pay things such as the website, the app development and travel costs.<br> 
-Our contents are free of advertisement and we would like it to stay like that. 
+We all work voluntarily and our contents are free of advertisement. We believe that it should stay like that. 
+
+As we develop the beta version of our app we rely on money. We need to maintain the website and we have costs for software licences and hardware. 
 
 Donorbox and PayPal charge us additional fees for every transaction if it is made through the widget below. If you want to spare us from those fees please send an email to <a href= "mailto:info@smagotcha.net">info@smagotcha.net </a> and we will send our German bank account details to you. 
 

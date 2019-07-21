@@ -1,56 +1,123 @@
 ---
-layout: landing
+layout: default
 ---
 
-Imagine there is a creature made of light, and this creature gives you the opportunity to be more conscious of your actions wherever you are. And with each of your exercises, it evolves - every time you choose to be attentive.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-What many people struggle with you can learn to do in a playful way. Smagotcha teaches you to direct your focus on your surroundings and to keep it there - with no distractions.
+[Link to another page](./another-page.html).
 
-__Stay up to date!__ <br>Check out our [blog](/blog) to see all of what's happening with Smagotcha. <br> 
-A big part of it is the project journey I am undertaking as I travel through Europe building community!
+There should be whitespace between paragraphs.
 
-__Who are we?__ <br>
-Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people to use their smartphones mindfully. We are a small team scattered around Europe. 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-![Zsombor](/images/zsom.jpg)
-<br>
-Zsombor   - Poland <br>
-*app developer*
+# Header 1
 
-![Jana](/images/jana.jpg)
-<br>
-Jana      - Austria <br>
-*project assistance/ 2D design*
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-![Christoph](/images/chris.jpg)
-<br>
-Christoph - Germany <br>
-*project manager/ team lead*
+## Header 2
 
-![Mette](/images/mett.jpg)
-<br>
-Mette     - Denmark <br>
-*3D design*
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-![Rigo](/images/rigo.jpg)
-<br>
-Rigo      - Germany <br>
-*sound design*
+### Header 3
 
-__Donate!__ <br>
-If you want to support us with a [donation](/makedonation) that would be highly appreciated.
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
+### Definition lists can be used with HTML syntax.
 
-<!--<form action="https://www.
-paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="YSL6LGBE4FEF2" />
-<input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
-</form>-->
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-
-<!-- Kommentar -->
-<!--The smartphone app Smagotcha supports its users to understand their own interactions with their environment. For this purpose a cute but disciplined creature made of light matures inside the app and changes its brightness over time. It brings the users thoughts, feelings and sensations into the present moment. In order to accomplish this it evolves its appearance and character continuously – entirely individually and for as long as it is played with. Beware though, it is threatened to atrophy when the old habits resurface. When its luminosity is fully developed, the users will glide into the next phase. There they will be awaited by new secrets in order to let their creature live even more individually.-->
+```
+The final element.
+```

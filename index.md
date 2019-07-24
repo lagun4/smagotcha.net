@@ -2,15 +2,15 @@
 layout: landing
 ---
 
-Imagine there is a creature made of light, and this creature gives you the opportunity to be more conscious of your actions wherever you are. And with each of your exercises, it evolves - every time you choose to be attentive.
+Imagine there is a creature made of light, and this creature gives you the opportunity to be more conscious of your actions wherever you are. And with each of your exercises, it evolves - every time you choose to be aware.
 
 What many people struggle with you can learn to do in a playful way. Smagotcha teaches you to direct your focus on your surroundings and to keep it there - with no distractions.
 
-__Stay up to date!__ <br>Check out our [blog](/blog) to see all of what's happening with Smagotcha. <br> 
-A big part of it is the project journey I am undertaking as I travel through Europe building community!
+__This is a beta website__ <br>
+Currently we are looking for a website developer who can bring Smagotcha to the next level. If you feel interested in the above description don't hesitate to contact us via info@smagotcha.net or our facebook channel. 
 
 __Who are we?__ <br>
-Currently we are developing a beta version for the smartphone app Smagotcha. Our aim is to empower people to use their smartphones mindfully. We are a small team scattered around Europe. 
+ We are a small team scattered around Europe all working voluntary to create a new approach within the conscious smartphone movement.
 
 ![Zsombor](/images/zsom.jpg)
 <br>
@@ -36,6 +36,9 @@ Mette     - Denmark <br>
 <br>
 Rigo      - Germany <br>
 *sound design*
+
+__Stay up to date!__ <br>Check out our [blog](/blog) to see all of what's happening with Smagotcha. <br> 
+A big part of it is the project journey Christoph is undertaking as he travels through Europe building community!
 
 __Donate!__ <br>
 If you want to support us with a [donation](/makedonation) that would be highly appreciated.

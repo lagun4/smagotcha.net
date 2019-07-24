@@ -7,7 +7,7 @@ Imagine there is a creature made of light, and this creature gives you the oppor
 What many people struggle with you can learn to do in a playful way. Smagotcha teaches you to direct your focus on your surroundings and to keep it there - with no distractions.
 
 __This is a beta website!__ <br>
-Currently we are looking for a website developer who can bring Smagotcha to the next level. If you feel interested in the above description don't hesitate to contact us via info@smagotcha.net or on our facebook channel. 
+This page has no colours yet. What we do have is a website designer whose mockup needs a website developer who can bring Smagotcha to the next level. If you feel interested in our vision don't hesitate to contact us via info@smagotcha.net or on our facebook channel. 
 
 __Who are we?__ <br>
  We are a small team scattered around Europe all working voluntary to create a new approach within the conscious smartphone movement.

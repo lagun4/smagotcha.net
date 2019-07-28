@@ -9,8 +9,6 @@ As we develop the beta version of our app, we rely on money to keep us going. We
 
 You can use Donorbox or PayPal to donate, however, please note that we are charged additional fees for every transaction. If you donate through our German bank account, we won't be charged any additional fees.
 
-Account details are as following: 
-
 __IBAN: DE95 5001 0517 5416 0813 67__ <br>
 __BIC: INGDDEFFXXX__
 

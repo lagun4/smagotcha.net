@@ -3,14 +3,22 @@ layout: makedonation
 title: YOUR DONATION
 ---
 
-We all work voluntarily and our contents are free of advertisement. We believe that it should stay like that. 
+We work voluntarily and our content is free of ads. We believe it should stay this way.
 
-As we develop the beta version of our app we rely on money. We need to maintain the website and we have costs for software licences and hardware. 
+As we develop the beta version of our app, we rely on money to keep us going. We need to maintain the website and there are costs involved for software licenses and hardware.
 
-Donorbox and PayPal charge us additional fees for every transaction if it is made through the widget below. If you want to spare us from those fees please send an email to <a href= "mailto:info@smagotcha.net">info@smagotcha.net </a> and we will send our German bank account details to you. 
+You can use Donorbox or PayPal to donate, however, please note that we are charged additional fees for every transaction. If you donate through our German bank account, we won't be charged any additional fees.
 
-Please let us know if you need a donation invoice.
+Account details are as following: 
+
+__IBAN: DE95 5001 0517 5416 0813 67__ <br>
+__BIC: INGDDEFFXXX__
+
+Donorbox
+PayPal
+German bank info
+
+Please let us know if you need a <a href= "mailto:info@smagotcha.net">donation invoice </a>.
 
 <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/smagotcha" height="685px" width="100%" style="max-width:620px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
 
-<!-- Kommentar -->

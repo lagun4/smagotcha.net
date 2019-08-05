@@ -1,3 +1,30 @@
+@font-face {
+  1     font-family: "sofia proregular";
+  2     src: url('sofia_pro_regular-webfont.woff2') format('woff2'),
+  3          url('sofia_pro_regular-webfont.woff') format('woff'),
+			url('sofia_pro_regular.ttf') format('truetype');
+  4     font-weight: normal;
+  5     font-style: normal;
+  6
+  7 }
+
+  @font-face {
+  font-family: "Sofia Pro";
+  src: url("https://db.onlinewebfonts.com/t/f3d5ff31ac8e997dff2b13190f163bc0.eot?#iefix") format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/f3d5ff31ac8e997dff2b13190f163bc0.woff2") format("woff2"),
+  url("https://db.onlinewebfonts.com/t/f3d5ff31ac8e997dff2b13190f163bc0.woff") format("woff"),
+  url("https://db.onlinewebfonts.com/t/f3d5ff31ac8e997dff2b13190f163bc0.ttf") format("truetype"),
+  url("https://db.onlinewebfonts.com/t/f3d5ff31ac8e997dff2b13190f163bc0.svg#Sofia") format("svg");
+  font-weight: 400;
+  }
+
+  @font-face {
+  font-family: sofia-pro-soft;
+  src: url("https://use.typekit.net/af/5c3c84/0000000000000000000157bc/27/l?subset_id=2&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/5c3c84/0000000000000000000157bc/27/d?subset_id=2&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/5c3c84/0000000000000000000157bc/27/a?subset_id=2&fvd=n4&v=3") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+
 html, body {
 	max-width: 100%;
     overflow-x: hidden;
@@ -15,8 +42,10 @@ html, body {
 	//padding: 45px 45px 0;
 	padding: 75px 15%;
 	//width: 925px;
-	font-family: 'Source Sans Pro', sans-serif;
+	//font-family: 'Source Sans Pro', sans-serif;
+	font-family: "sofia-pro-soft";
 	font-weight: 400;
+	//font-weight: 400;
 	font-style: normal;
 	font-size: 21px;
 }
@@ -54,6 +83,7 @@ ul {
 li {
 	color: black;
 	margin: 1rem;
+	font-size: 14px;
 }
 
 .active {
@@ -73,7 +103,13 @@ a:hover:not(.active) {
 
 .headline {
 //	background-color: red;
-	margin: 2rem 0;
+	margin: 3rem 0;
+	margin-bottom: 5rem;
+}
+
+.headlineh1 {
+	font-size: 34px;
+	font-weight: 400;
 }
 
 h1 {
@@ -83,7 +119,7 @@ h1 {
 .screenshotbox {
 	display: flex;
 	justify-content: center;
-	padding: 5rem 2rem;
+	padding: 2rem 2rem;
 
 }
 
@@ -97,6 +133,7 @@ h1 {
 
 .quoteparagraph {
 	border-left: 1px solid gray;
+	padding: 1rem;
 }
 
 .screenshotcontainer {
@@ -109,7 +146,8 @@ h1 {
 
 .infotext {
 	text-align: center;
-	padding: 1rem;
+	//padding: 1rem;
+	//background-color: red;
 }
 
 .milestonescontainer {

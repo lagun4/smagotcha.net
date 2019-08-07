@@ -260,18 +260,24 @@ hr {
 }
 
 .blogpreview {
-	background-color: red;
 	display: flex;
 	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
 }
 
 .lastarticle {
-	background-color: blue;
-	width: 50%;
+	width: 65%;
+	padding: 0 5rem 0 0;
 }
 
 .blogquote {
-	width: 50%;
+	width: 45%;
+}
+
+.blogquoteP {
+	border-left: 1px solid gray;
+	padding: 0 0 0 1rem;
 }
 
 .why {
@@ -280,3 +286,42 @@ hr {
 	text-align: left;
 }
 
+.published {
+	color: rgba(28,32,24,.7);
+	font-family: "Unna";
+	font-weight: 400;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 1.5em;
+	letter-spacing: .2em;
+	padding: 0;
+	margin: 0;
+}
+
+.blogButtonContainer {
+	display: flex;
+	justify-content: space-between;
+}
+
+.blogButton {
+	color: #1c2018;
+	border-width: 2px;
+	border-style: solid;
+	font-family: Unna;
+	font-size: 15px;
+	font-weight: 400;
+	font-style: normal;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	padding: 25px;
+	text-align: center;
+	margin: 1rem 0;
+}
+
+.leftblogbutton {
+	margin-right: 1rem;
+}
+
+.rightblogbutton {
+	margin-left: 1rem;
+}

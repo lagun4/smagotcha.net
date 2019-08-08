@@ -47,19 +47,26 @@ html, body {
 	max-height: 110px;
 }
 
+ul {
+	list-style-type: none;
+}
+
 .navbar {
-//	list-style-type: none;
+	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	display: flex;
 	justify-content: center;
 	}
 
-ul {
-	list-style-type: none;
+li {
+	color: black;
+	margin: 1rem;
+	font-size: 14px;
 }
 
-li {
+
+.navbarlist {
 	color: black;
 	margin: 1rem;
 	font-size: 14px;
@@ -324,4 +331,44 @@ hr {
 
 .rightblogbutton {
 	margin-left: 1rem;
+}
+
+
+.homeLink{
+	color: #ff8000;
+	font-family: Unna;
+	letter-spacing: .2em;
+	font-size: 14px;
+}
+
+.sitemapContainer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.sitemapList {
+	list-style-type: disc;
+}
+
+.sitemapListItem {
+//	color: #ff8000; 
+}
+
+.sitemaplink {
+	font-family: Unna;
+	color: #ff8000; 
+	letter-spacing: .2em;
+}
+
+.socialMediaLinks {
+	display: flex;
+	jusify-content: center;
+}
+
+.legalP {
+	font-family: Unna;
+	font-size: 12px;
+	letter-spacing: .1em;
+	text-transform: uppercase;
 }

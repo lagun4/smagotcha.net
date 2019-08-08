@@ -19,12 +19,10 @@ html, body {
 
 .wrapper {
 	margin: 0 auto;
-	//padding: 45px 45px 0;
-	padding: 75px 15%;
-	//width: 925px;
+	padding: 75px 12%;
+	padding-bottom: 0;
 	font-family: "sofia-pro-soft";
 	font-weight: 400;
-	//font-weight: 400;
 	font-style: normal;
 	font-size: 21px;
 }
@@ -81,7 +79,7 @@ a {
 	text-decoration: none;
 }
 
-a:hover:not(.active) {
+.navA:hover:not(.active) {
 	color: #cccccc;
 	text-decoration: none;
 }
@@ -314,6 +312,7 @@ hr {
 	color: #1c2018;
 	border-width: 2px;
 	border-style: solid;
+	border-color: black;
 	font-family: Unna;
 	font-size: 15px;
 	font-weight: 400;
@@ -323,7 +322,14 @@ hr {
 	padding: 25px;
 	text-align: center;
 	margin: 1rem 0;
+	transition: color 0.3s, background-color 0.3s;
 }
+
+.blogButton:hover {
+	color: white;
+	background-color: black;
+}
+	
 
 .leftblogbutton {
 	margin-right: 1rem;
@@ -355,15 +361,27 @@ hr {
 //	color: #ff8000; 
 }
 
-.sitemaplink {
+.sitemapLink {
 	font-family: Unna;
 	color: #ff8000; 
 	letter-spacing: .2em;
 }
 
+a:hover {
+	color: rgba(252,190,89,.7);
+}
+
 .socialMediaLinks {
 	display: flex;
 	jusify-content: center;
+}
+
+.legal {
+	margin-top: 5rem;
+}
+
+.legal {
+	margin-top: 5rem;
 }
 
 .legalP {

@@ -5,6 +5,8 @@
   font-weight: 400;
 }
 
+
+
 html, body {
 	max-width: 100%;
     overflow-x: hidden;
@@ -389,4 +391,63 @@ a:hover {
 	font-size: 12px;
 	letter-spacing: .1em;
 	text-transform: uppercase;
+}
+/* Mobile Styles */
+@media only screen and (max-width: 500px) {
+	body {
+//		background-color: #F09A9D; /* Red */
+	      }
+
+	.wrapper {
+		padding: 0;
+	}
+
+	.header {
+		flex-direction: column;
+	}
+
+	.headline {
+		margin: 3rem 0;
+	}
+	/*
+	.logo {
+		max-height: 150px;
+		height: 150px;
+	}*/
+
+
+	
+
+	.screenshotbox {
+		display: flex;
+		flex-direction: column-reverse;
+		align-items: center;
+	}
+
+	.quote {
+		width: 100%;
+	}
+
+	.screenshotcontainer {
+		width: 100%;
+	}
+
+	.screenshot {
+
+	}
+
+	.milestonedone {
+		margin: 0;
+		padding: 0;
+		padding-bottom: 100px;
+	}
+
+	.milestonenext {
+	}
+
+
+	.milestonenow {
+		padding-bottom: 50px;
+	}
+
 }

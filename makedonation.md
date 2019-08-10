@@ -1,5 +1,4 @@
 ---
-layout: makedonation
 title: YOUR DONATION
 ---
 

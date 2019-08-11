@@ -105,6 +105,7 @@ h1 {
 .screenshotbox {
 	display: flex;
 	justify-content: center;
+	align-items: center;
 	padding: 2rem 2rem;
 
 }
@@ -392,71 +393,7 @@ a:hover {
 	letter-spacing: .1em;
 	text-transform: uppercase;
 }
-/* Mobile Styles */
-@media only screen and (max-width: 500px) {
-	body {
-//		background-color: #F09A9D; /* Red */
-	      }
 
-	.wrapper {
-		padding: 0;
-	}
-
-	.header {
-		flex-direction: column;
-	}
-
-	.headline {
-		margin: 3rem 0;
-	}
-	/*
-	.logo {
-		max-height: 150px;
-		height: 150px;
-	}*/
-
-
-	
-
-	.screenshotbox {
-		display: flex;
-		flex-direction: column-reverse;
-		align-items: center;
-	}
-
-	.quote {
-		width: 100%;
-	}
-
-	.screenshotcontainer {
-		width: 100%;
-	}
-
-	.screenshot {
-
-	}
-
-	.milestonedone {
-		margin: 0;
-		padding: 0;
-		padding-bottom: 100px;
-	}
-
-	.milestonenext {
-	}
-
-
-	.milestonenow {
-		padding-bottom: 50px;
-	}
-
-	.lastarticle {
-		width: 65%;
-		padding: 0 5rem 0 0;
-	}
-
-
-}
 	.donationContent{
 		max-width: 600px;
 		margin: 0 auto;
@@ -481,6 +418,10 @@ a:hover {
 		margin-bottom: 1.5rem;
 	}
 
+	.donationPEnd{
+		margin-bottom: 5rem;
+	}
+
 	.mailto {
 		color: #ff8000;
 	}
@@ -491,8 +432,9 @@ a:hover {
 		align-items: center;
 	}
 
-	.iframe {
+	iframe {
 		margin: 0 auto;
+		display: block;
 	}
 
 	.legalA {
@@ -528,3 +470,110 @@ a:hover {
 	.postText {
 		color: rgba(28,32,24,.8);
 	}
+
+/* Mobile Styles */
+@media only screen and (max-width: 500px) {
+	body {
+//		background-color: #F09A9D; /* Red */
+	      }
+
+	.wrapper {
+		padding: 0;
+	}
+
+	.header {
+		flex-direction: column;
+	}
+
+	.headline {
+		margin-top: 5rem;
+		margin-bottom: 0;
+	}
+
+	.screenshotbox {
+		display: flex;
+		flex-direction: column-reverse;
+		align-items: center;
+	}
+
+	.quote {
+		width: 100%;
+	}
+
+	.screenshotcontainer {
+		width: 100%;
+	}
+
+	.screenshot {
+
+	}
+
+	.milestonedone {
+		margin: 0;
+		padding: 0;
+		padding-bottom: 100px;
+	}
+
+	.milestonenext {
+	}
+
+
+	.milestonenow {
+		padding-bottom: 50px;
+	}
+
+	.teamcontainer {
+		padding-top: 1rem;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.thisisus {
+		width: auto;
+	}
+
+	.teampictures {
+		flex-direction: column;
+		align-items: center;
+		//width: 100%;
+	}
+
+	.member {
+		width: auto;
+	}
+
+	.blogpreview {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.lastarticle {
+		width: 100%;
+		padding:0;
+	}
+
+	.blogquote {
+		width: 80%;
+		padding: 0;
+	}
+
+	.donationH {
+		margin-top: 5rem;
+	}
+
+
+	.homeLinkHeader {
+		text-align: center;
+	}
+
+	.sitemapContainer {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.postTitle {
+		margin-top: 5rem;
+	}
+
+
+}

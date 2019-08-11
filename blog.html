@@ -1,11 +1,14 @@
-</body>
-</body>
+---
+layout: default
+title: BLOG
+---
 <div class='blog-posts'>
   {% for post in site.posts %}
   <article class='blog-post'>
-    <h2>{{ post.title }}</h2>
-    <p><time class='blog-post-date'>{{ post.date | date_to_string "ordinal", "DE" }}</time></p>
-    {{ post.content | markdownify }}
+    <h2 class="postTitle">{{ post.title }}</h2>
+    <p class="postPublished"><time class='blog-post-date'>{{ post.date | date_to_string "ordinal", "DE" }}</time></p>
+	<div class="postText">{{ post.content | markdownify }}</div>
   </article>
+  <hr>
   {% endfor %}
 </div>

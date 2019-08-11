@@ -275,7 +275,7 @@ hr {
 
 .lastarticle {
 	width: 65%;
-	padding: 0 5rem 0 0;
+	padding: 0 5rem 0 2rem;
 }
 
 .blogquote {
@@ -373,9 +373,9 @@ a:hover {
 	color: rgba(252,190,89,.7);
 }
 
-.socialMediaLinks {
+.socialMediaContainer {
 	display: flex;
-	jusify-content: center;
+	justify-content: center;
 }
 
 .legal {
@@ -450,4 +450,56 @@ a:hover {
 		padding-bottom: 50px;
 	}
 
+	.lastarticle {
+		width: 65%;
+		padding: 0 5rem 0 0;
+	}
+
+
 }
+	.donationContent{
+		max-width: 600px;
+		margin: 0 auto;
+		color: rgba(28,32,24,.8);
+	}
+
+	.donationH {
+		font-size: 34px;
+		color: black;
+	}
+	.donationh3 {
+		font-family: Unna;
+		font-size: 14px;
+		text-transform: uppercase;
+		color: rgba(28,32,24,.7);
+		text-align: center;
+		letter-spacing: 0.2em;
+	}
+
+	.donationP {
+		text-align: center;
+		margin-bottom: 1.5rem;
+	}
+
+	.mailto {
+		color: #ff8000;
+	}
+
+	.donorBox {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.iframe {
+		margin: 0 auto;
+	}
+
+	.legalA {
+		color: #ff8000;
+	}
+
+	.socialMediaLinks {
+		margin: 0.5rem;
+	}
+

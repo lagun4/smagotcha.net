@@ -164,6 +164,7 @@ hr {
 	font-style: normal;
 	font-size: 14px;
 	line-height: 1.5em;
+	letter-spacing: 0.2em;
 	padding: 0;
 	margin: 0;
 }
@@ -191,10 +192,12 @@ hr {
 	padding: 0;
 	margin: 0;
 	margin-bottom: 30px;
+	font-size: 21px;
 }
 
 .headnext {
 	margin-bottom: 70px;
+	font-size: 21px;
 }
 
 .milestonedone {
@@ -220,7 +223,8 @@ hr {
 .milestoneitemnow {
 	padding: 0;
 	margin: 0;
-	color: rgba(28,32,24,.8)
+	color: rgba(28,32,24,.8);
+	font-size: 21px;
 }
 
 .thisisus {
